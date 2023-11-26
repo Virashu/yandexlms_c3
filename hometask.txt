@@ -8,3 +8,41 @@ index 6988c8d..975e13a 100644
 @@ -1,3 +1,3 @@
 -Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+
+
+Commits (11)
+
+
+hometask
+@Virashu
+
+Merge branch 'boots_buttons'
+@Virashu
+
+Merge remote-tracking branch 'origin/hat'
+@Virashu
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+@Virashu
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+@Virashu
+
+fix readme
+@MobDev-Hobby
+
+dots
+@MobDev-Hobby
+
+README added
+@MobDev-Hobby
+
+boots
+@MobDev-Hobby
+
+heat added
+@MobDev-Hobby
+
+init
+@MobDev-Hobby
